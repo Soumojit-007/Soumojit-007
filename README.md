@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **blockchain projects**
 
-- 👨‍💻 All of my projects are available at [https://persop.netlify.app/](https://persop.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://persop.netlify.app/](https://soumojit007.netlify.app/)
 
 - 💬 Ask me about **react , node js , mongodb**
 
